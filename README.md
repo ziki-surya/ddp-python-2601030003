@@ -11,7 +11,7 @@
 4. latihan4_total_belanja.py: menghitung total belanja dengan PPN 11%
 
 ## Cara menjalankan
-python latihan1_biodata.py
-python latihan2_persegi_panjang.py
-python latihan3_konversi_suhu.py
-python latihan4_total_belanja.py
+1. python latihan1_biodata.py
+2. python latihan2_persegi_panjang.py
+3. python latihan3_konversi_suhu.py
+4. python latihan4_total_belanja.py
